@@ -1,0 +1,4 @@
+enum CompetitionType{
+  CUP,
+  LEAGUE,
+}

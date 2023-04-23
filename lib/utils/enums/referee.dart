@@ -1,0 +1,4 @@
+enum RefereeType{
+  REFEREE,
+
+}

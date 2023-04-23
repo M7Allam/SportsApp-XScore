@@ -1,0 +1,19 @@
+enum Stages{
+  GROUP_STAGE,
+  LAST_16,
+  QUARTER_FINALS,
+  SEMI_FINALS,
+  THIRD_PLACE,
+  FINAL,
+}
+
+enum Groups{
+  GROUP_A,
+  GROUP_B,
+  GROUP_C,
+  GROUP_D,
+  GROUP_E,
+  GROUP_F,
+  GROUP_G,
+  GROUP_H,
+}
